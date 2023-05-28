@@ -1,4 +1,4 @@
-module github.com/mattmazer1/grpc-chat-app
+module github.com/mattmazer1/grpc-server-comms
 
 go 1.20
 

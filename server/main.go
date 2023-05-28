@@ -7,7 +7,7 @@ import (
 	"os"
 	"sync"
 
-	chat "github.com/mattmazer1/grpc-chat-app/proto"
+	chat "github.com/mattmazer1/grpc-server-comms/proto"
 	"google.golang.org/grpc"
 	glog "google.golang.org/grpc/grpclog"
 )
